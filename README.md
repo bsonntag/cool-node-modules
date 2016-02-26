@@ -113,6 +113,10 @@
 
 - [morgan](https://github.com/expressjs/morgan): HTTP request logger for express.
 
+## Mime types
+
+- [mime](https://github.com/broofa/node-mime): A super simple utility library for dealing with mime-types.
+
 ## Networking
 
 - [dns-discovery](https://github.com/mafintosh/dns-discovery): Service discovery using regular DNS and multicast DNS.
@@ -164,6 +168,7 @@
 
 ## Testing
 
+- [chai](https://github.com/chaijs/chai): BDD/TDD assertion framework.
 - [istanbul](https://github.com/gotwarlost/istanbul): Code coverage tool.
 - [mocha](https://github.com/mochajs/mocha): Simple, flexible, fun javascript test framework.
 - [sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks.
