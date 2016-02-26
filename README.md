@@ -113,6 +113,10 @@
 
 - [morgan](https://github.com/expressjs/morgan): HTTP request logger for express.
 
+## Markdown
+
+- [marked](https://github.com/chjj/marked): A markdown parser and compiler. Built for speed.
+
 ## Mime types
 
 - [mime](https://github.com/broofa/node-mime): A super simple utility library for dealing with mime-types.
