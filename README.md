@@ -7,6 +7,7 @@
 - [deejay](https://github.com/mafintosh/deejay): Music player that broadcasts to everyone on the same network.
 - [http-server](https://github.com/indexzero/http-server): A simple zero-configuration command-line http server.
 - [jsinspect](https://github.com/danielstjules/jsinspect): Detect copy-pasted and structurally similar code.
+- [kgcat](https://github.com/itszero/kgcat): Tap into Google's knowledge right from your console.
 - [normit](https://github.com/pawurb/normit): Google translate with speech synthesis in your terminal.
 - [opn-cli](https://github.com/sindresorhus/opn-cli): Opens stuff like websites, files, executables. Cross-platform.
 - [peerflix](https://github.com/mafintosh/peerflix): Streaming torrent client.
