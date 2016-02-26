@@ -54,6 +54,7 @@
 - [file-type](https://github.com/sindresorhus/file-type): Detect the file type of a Buffer/Uint8Array.
 - [folder-walker](https://github.com/karissa/folder-walker): Get a stream of files walking recursively through a folder.
 - [fuse-bindings](https://github.com/mafintosh/fuse-bindings): FUSE bindings for Node.
+- [list-dir](https://github.com/vdemedes/list-dir): List directory contents recursively.
 - [tempfile](https://github.com/sindresorhus/tempfile): Get a random temp file path.
 
 ## Formatting
