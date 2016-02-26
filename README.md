@@ -29,6 +29,7 @@
 
 ## Compression
 
+- [compression](https://github.com/expressjs/compression): Compression middleware for express.
 - [tar-stream](https://github.com/mafintosh/tar-stream): Streaming tar parser and generator.
 
 ## Electron
@@ -84,11 +85,16 @@
 ## HTTP
 
 - [axios](https://github.com/mzabriskie/axios): Promise based HTTP client.
+- [body-parser](https://github.com/expressjs/body-parser): Request body parsing middleware for express.
+- [busboy](https://github.com/mscdex/busboy): A streaming parser for HTML form data.
 - [download](https://github.com/kevva/download): Download and extract files.
+- [express](https://github.com/expressjs/express): Fast, unopinionated, minimalist web framework.
 - [got](https://github.com/sindresorhus/got): Simplified HTTP/HTTPS requests.
 - [hyperquest](https://github.com/substack/hyperquest): Streaming http requests.
 - [request](https://github.com/request/request): Simplified HTTP request client.
+- [server-static](https://github.com/expressjs/serve-static): Serve static files.
 - [superagent](https://github.com/visionmedia/superagent): Progressive client-side HTTP request library.
+- [timeout](https://github.com/expressjs/timeout): Request timeout middleware for express.
 
 ## Images
 
@@ -102,6 +108,10 @@
 - [png-stream](https://github.com/devongovett/png-stream): A streaming PNG encoder and decoder.
 - [qr-image](https://github.com/alexeyten/qr-image): Yet another QR code generator.
 - [sharp](https://github.com/lovell/sharp): The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+
+## Logging
+
+- [morgan](https://github.com/expressjs/morgan): HTTP request logger for express.
 
 ## Networking
 
