@@ -174,6 +174,8 @@
 
 ## Video
 
+- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg): A fluent API to FFMPEG.
+- [ffprobe](https://www.npmjs.com/package/ffprobe): Use ffprobe to get info from media files.
 - [mp4-stream](https://github.com/mafintosh/mp4-stream): Streaming mp4 encoder and decoder.
 
 ## WebRTC
