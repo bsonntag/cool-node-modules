@@ -92,8 +92,14 @@
 
 ## Images
 
+- [gif-stream](https://github.com/devongovett/gif-stream): A streaming GIF encoder and decoder.
+- [inkjet](https://github.com/gchudnov/inkjet): JPEG-image decoding, encoding & EXIF reading library.
 - [jimp](https://github.com/oliver-moran/jimp): An image processing library written entirely in JavaScript, with zero external or native dependencies.
+- [jpeg-js](https://github.com/eugeneware/jpeg-js): A pure javascript JPEG encoder and decoder for Node.
+- [jpg-stream](https://github.com/devongovett/jpg-stream): A streaming JPEG encoder and decoder.
 - [opencv](https://github.com/peterbraden/node-opencv): OpenCV bindings for Node.
+- [pics](https://github.com/devongovett/pics): Ties together streaming image encoders and decoders with a nice API.
+- [png-stream](https://github.com/devongovett/png-stream): A streaming PNG encoder and decoder.
 - [qr-image](https://github.com/alexeyten/qr-image): Yet another QR code generator.
 - [sharp](https://github.com/lovell/sharp): The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 
