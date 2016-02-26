@@ -137,6 +137,11 @@
 - [camelize](https://github.com/substack/camelize): Recursively transform object keys to camel-case.
 - [difflet](https://github.com/substack/difflet): Colorful diffs for javascript objects.
 
+## ORMs
+
+- [mongoose](https://github.com/Automattic/mongoose): MongoDB object modeling designed to work in an asynchronous environment.
+- [sequelize](https://github.com/sequelize/sequelize): Promise-based ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
+
 ## Parsing
 
 - [csv-parser](https://github.com/mafintosh/csv-parser): Streaming CSV parser.
