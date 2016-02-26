@@ -4,13 +4,14 @@
 ## Applications
 
 - [clocker](https://github.com/substack/clocker): Track project hours.
-- [deejay](https://github.com/mafintosh/deejay)
-- [http-server](https://github.com/indexzero/http-server)
-- [jsinspect](https://github.com/danielstjules/jsinspect)
-- [normit](https://github.com/pawurb/normit)
-- [opn-cli](https://github.com/sindresorhus/opn-cli)
-- [tetris](https://github.com/mafintosh/tetris)
-- [vtop](https://github.com/MrRio/vtop)
+- [deejay](https://github.com/mafintosh/deejay): Music player that broadcasts to everyone on the same network.
+- [http-server](https://github.com/indexzero/http-server): A simple zero-configuration command-line http server.
+- [jsinspect](https://github.com/danielstjules/jsinspect): Detect copy-pasted and structurally similar code.
+- [normit](https://github.com/pawurb/normit): Google translate with speech synthesis in your terminal.
+- [opn-cli](https://github.com/sindresorhus/opn-cli): Opens stuff like websites, files, executables. Cross-platform.
+- [peerflix](https://github.com/mafintosh/peerflix): Streaming torrent client.
+- [tetris](https://github.com/mafintosh/tetris): Play tetris in your terminal, with colors.
+- [vtop](https://github.com/MrRio/vtop): A graphical activity monitor for the command line.
 
 ## Browser
 
@@ -18,21 +19,21 @@
 
 ## Command-line tools
 
-- [beeper](https://github.com/sindresorhus/beeper)
-- [get-stdin](https://github.com/sindresorhus/get-stdin)
-- [log-update](https://github.com/sindresorhus/log-update)
+- [beeper](https://github.com/sindresorhus/beeper): Make your terminal beep.
+- [get-stdin](https://github.com/sindresorhus/get-stdin): Get stdin as a string or buffer.
+- [log-update](https://github.com/sindresorhus/log-update): Log by overwriting the previous output in the terminal.
 - [minimist](https://github.com/substack/minimist): Parse argument options.
-- [progress-bar](https://github.com/tj/node-progress)
-- [vorpal](https://github.com/dthree/vorpal)
+- [progress-bar](https://github.com/tj/node-progress): Flexible ascii progress bar.
+- [vorpal](https://github.com/dthree/vorpal): Framework for interactive CLIs.
 
 ## Compression
 
-- [tar-stream](https://github.com/mafintosh/tar-stream)
+- [tar-stream](https://github.com/mafintosh/tar-stream): Streaming tar parser and generator.
 
 ## Electron
 
-- [electron](https://github.com/atom/electron)
-- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt)
+- [electron](https://github.com/atom/electron): Build cross platform desktop apps with web technologies.
+- [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt): Install electron prebuilt binaries using npm.
 
 ## Email
 
@@ -41,39 +42,39 @@
 
 ## Environment
 
-- [dotenv](https://github.com/motdotla/dotenv)
-- [fullname](https://github.com/sindresorhus/fullname)
-- [username](https://github.com/sindresorhus/username)
+- [dotenv](https://github.com/motdotla/dotenv): Loads environment variables from a .env file.
+- [fullname](https://github.com/sindresorhus/fullname): Get the fullname of the current user.
+- [username](https://github.com/sindresorhus/username): Get the username of the current user.
 
 ## File system
 
-- [cpy](https://github.com/sindresorhus/cpy)
-- [file-type](https://github.com/sindresorhus/file-type)
-- [folder-walker](https://github.com/karissa/folder-walker)
-- [fuse-bindings](https://github.com/mafintosh/fuse-bindings)
-- [tempfile](https://github.com/sindresorhus/tempfile)
+- [cpy](https://github.com/sindresorhus/cpy): Copy files.
+- [file-type](https://github.com/sindresorhus/file-type): Detect the file type of a Buffer/Uint8Array.
+- [folder-walker](https://github.com/karissa/folder-walker): Get a stream of files walking recursively through a folder.
+- [fuse-bindings](https://github.com/mafintosh/fuse-bindings): FUSE bindings for Node.
+- [tempfile](https://github.com/sindresorhus/tempfile): Get a random temp file path.
 
 ## Formatting
 
-- [boxen](https://github.com/sindresorhus/boxen)
-- [bytes](https://www.npmjs.com/package/bytes)
-- [camelcase](https://github.com/sindresorhus/camelcase)
-- [chalk](https://github.com/chalk/chalk)
-- [decamelize](https://github.com/sindresorhus/decamelize)
-- [ms](https://github.com/rauchg/ms.js)
-- [pretty-error](https://github.com/AriaMinaei/pretty-error)
-- [uppercamelcase](https://github.com/SamVerschueren/uppercamelcase)
+- [boxen](https://github.com/sindresorhus/boxen): Create boxes in the terminal.
+- [bytes](https://github.com/visionmedia/bytes.js): Utility to parse a string bytes (ex: 1TB) to bytes (1099511627776) and vice-versa.
+- [camelcase](https://github.com/sindresorhus/camelcase): Convert a dash/dot/underscore/space separated string to camelCase.
+- [chalk](https://github.com/chalk/chalk): Terminal string styling done right.
+- [decamelize](https://github.com/sindresorhus/decamelize): Convert a camelized string into a lowercased one with a custom separator.
+- [ms](https://github.com/rauchg/ms.js): Tiny milisecond conversion utility.
+- [pretty-error](https://github.com/AriaMinaei/pretty-error): See node errors with less clutter.
+- [uppercamelcase](https://github.com/SamVerschueren/uppercamelcase): Convert a dash/dot/underscore/space separated string to UpperCamelCase.
 
 ## General purpose
 
-- [lodash](https://github.com/lodash/lodash)
-- [faker](https://github.com/Marak/Faker.js)
-- [ramda](https://github.com/ramda/ramda)
+- [lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance & extras.
+- [faker](https://github.com/Marak/Faker.js): Generate massive amounts of fake data.
+- [ramda](https://github.com/ramda/ramda): Practical functional Javascript.
 
 ## Git
 
 - [git-http-backend](https://github.com/substack/git-http-backend): Serve a git repository over HTTP.
-- [nodegit](https://github.com/nodegit/nodegit)
+- [nodegit](https://github.com/nodegit/nodegit): Native Node bindings for Git.
 
 ## HTML
 
@@ -81,34 +82,34 @@
 
 ## HTTP
 
-- [axios](https://github.com/mzabriskie/axios)
-- [download](https://github.com/kevva/download)
-- [got](https://github.com/sindresorhus/got)
-- [hyperquest](https://github.com/substack/hyperquest)
-- [request](https://github.com/request/request)
-- [socket.io](https://github.com/socketio/socket.io)
-- [superagent](https://github.com/visionmedia/superagent)
+- [axios](https://github.com/mzabriskie/axios): Promise based HTTP client.
+- [download](https://github.com/kevva/download): Download and extract files.
+- [got](https://github.com/sindresorhus/got): Simplified HTTP/HTTPS requests.
+- [hyperquest](https://github.com/substack/hyperquest): Streaming http requests.
+- [request](https://github.com/request/request): Simplified HTTP request client.
+- [superagent](https://github.com/visionmedia/superagent): Progressive client-side HTTP request library.
 
 ## Images
 
-- [jimp](https://github.com/oliver-moran/jimp)
-- [opencv](https://github.com/peterbraden/node-opencv)
-- [qr-image](https://github.com/alexeyten/qr-image)
-- [sharp](https://github.com/lovell/sharp)
+- [jimp](https://github.com/oliver-moran/jimp): An image processing library written entirely in JavaScript, with zero external or native dependencies.
+- [opencv](https://github.com/peterbraden/node-opencv): OpenCV bindings for Node.
+- [qr-image](https://github.com/alexeyten/qr-image): Yet another QR code generator.
+- [sharp](https://github.com/lovell/sharp): The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 
 ## Networking
 
-- [dns-discovery](https://github.com/mafintosh/dns-discovery)
-- [get-port](https://github.com/sindresorhus/get-port)
-- [internal-ip](https://github.com/sindresorhus/internal-ip)
-- [ipify](https://github.com/sindresorhus/ipify)
-- [network-address](https://github.com/mafintosh/network-address)
-- [public-ip](https://github.com/sindresorhus/public-ip)
-- [ssh2](https://github.com/mscdex/ssh2)
+- [dns-discovery](https://github.com/mafintosh/dns-discovery): Service discovery using regular DNS and multicast DNS.
+- [get-port](https://github.com/sindresorhus/get-port): Get an available port.
+- [internal-ip](https://github.com/sindresorhus/internal-ip): Get your internal IPv4 or IPv6 address.
+- [ipify](https://github.com/sindresorhus/ipify): Get your public IP address, using the [ipify](https://www.ipify.org) API.
+- [network-address](https://github.com/mafintosh/network-address): Get the local network address of your machine.
+- [public-ip](https://github.com/sindresorhus/public-ip): Get your public IP address - very fast!
+- [socket.io](https://github.com/socketio/socket.io): Real-time bidirectional event-based communication.
+- [ssh2](https://github.com/mscdex/ssh2): SSH2 client and server modules written in pure JavaScript
 - [tcp-bind](https://github.com/substack/tcp-bind): Bind a low port and drop sudo priviledges ASAP.
-- [torrent-stream](https://github.com/mafintosh/torrent-stream)
-- [webtorrent](https://github.com/feross/webtorrent)
-- [wifi-list](https://github.com/mafintosh/wifi-list)
+- [torrent-stream](https://github.com/mafintosh/torrent-stream): The low level streaming torrent engine that peerflix uses.
+- [webtorrent](https://github.com/feross/webtorrent): Streaming torrent client for the web.
+- [wifi-list](https://github.com/mafintosh/wifi-list): List nearby wifi networks.
 
 ## Objects
 
@@ -117,12 +118,12 @@
 
 ## Parsing
 
-- [csv-parser](https://github.com/mafintosh/csv-parser)
-- [excel-stream](https://github.com/dominictarr/excel-stream)
+- [csv-parser](https://github.com/mafintosh/csv-parser): Streaming CSV parser.
+- [excel-stream](https://github.com/dominictarr/excel-stream): A stream that converts excel spreadsheets into JSON object arrays.
 
 ## PDF
 
-- [pdfkit](https://github.com/devongovett/pdfkit)
+- [pdfkit](https://github.com/devongovett/pdfkit): PDF generation library.
 
 ## Processes
 
@@ -133,32 +134,32 @@
 
 ## Promises
 
-- [bluebird](https://github.com/petkaantonov/bluebird/)
-- [q](https://github.com/kriskowal/q)
+- [bluebird](https://github.com/petkaantonov/bluebird): Full featured promise library with unmatched performance.
+- [q](https://github.com/kriskowal/q): A tool for creating and composing asynchronous promises.
 
 ## Serialization
 
-- [protocol-buffers](https://github.com/mafintosh/protocol-buffers)
+- [protocol-buffers](https://github.com/mafintosh/protocol-buffers): Protocol Buffers for Node.
 
 ## Streams
 
-- [multi-write-stream](https://github.com/mafintosh/multi-write-stream)
+- [multi-write-stream](https://github.com/mafintosh/multi-write-stream): Create a writable stream that writes to multiple other writeable streams.
 
 ## Testing
 
-- [istanbul](https://github.com/gotwarlost/istanbul)
-- [mocha](https://github.com/mochajs/mocha)
-- [sinon](https://github.com/sinonjs/sinon)
+- [istanbul](https://github.com/gotwarlost/istanbul): Code coverage tool.
+- [mocha](https://github.com/mochajs/mocha): Simple, flexible, fun javascript test framework.
+- [sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks.
 
 ## Validation
 
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid): JSONSchema validator that uses code generation.
 
 ## Video
 
-- [mp4-stream](https://github.com/mafintosh/mp4-stream)
+- [mp4-stream](https://github.com/mafintosh/mp4-stream): Streaming mp4 encoder and decoder.
 
 ## WebRTC
 
 - [get-browser-rtc](https://github.com/substack/get-browser-rtc): Get WebRTC methods unprefixed.
-- [wrtc](https://github.com/js-platform/node-webrtc)
+- [wrtc](https://github.com/js-platform/node-webrtc): WebRTC stack for Node.
