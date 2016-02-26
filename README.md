@@ -1,8 +1,9 @@
 # cool-node-modules
-A list of cool node modules.
+> A list of cool node modules. Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Applications
 
+- [clocker](https://github.com/substack/clocker): Track project hours.
 - [deejay](https://github.com/mafintosh/deejay)
 - [http-server](https://github.com/indexzero/http-server)
 - [jsinspect](https://github.com/danielstjules/jsinspect)
@@ -11,11 +12,16 @@ A list of cool node modules.
 - [tetris](https://github.com/mafintosh/tetris)
 - [vtop](https://github.com/MrRio/vtop)
 
+## Browser
+
+- [browserify](https://github.com/substack/node-browserify): Browser-side `require()` the node.js way.
+
 ## Command-line tools
 
 - [beeper](https://github.com/sindresorhus/beeper)
 - [get-stdin](https://github.com/sindresorhus/get-stdin)
 - [log-update](https://github.com/sindresorhus/log-update)
+- [minimist](https://github.com/substack/minimist): Parse argument options.
 - [progress-bar](https://github.com/tj/node-progress)
 - [vorpal](https://github.com/dthree/vorpal)
 
@@ -27,6 +33,11 @@ A list of cool node modules.
 
 - [electron](https://github.com/atom/electron)
 - [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt)
+
+## Email
+
+- [campaign](https://github.com/bevacqua/campaign): Compose responsive email templates easily, fill them with models, and send them out.
+- [smtp-protocol](https://github.com/substack/node-smtp-protocol): Write SMTP clients and servers.
 
 ## Environment
 
@@ -61,7 +72,12 @@ A list of cool node modules.
 
 ## Git
 
+- [git-http-backend](https://github.com/substack/git-http-backend): Serve a git repository over HTTP.
 - [nodegit](https://github.com/nodegit/nodegit)
+
+## HTML
+
+- [hyperstream](https://github.com/substack/hyperstream): Stream HTML into HTML at a CSS selector.
 
 ## HTTP
 
@@ -89,9 +105,15 @@ A list of cool node modules.
 - [network-address](https://github.com/mafintosh/network-address)
 - [public-ip](https://github.com/sindresorhus/public-ip)
 - [ssh2](https://github.com/mscdex/ssh2)
+- [tcp-bind](https://github.com/substack/tcp-bind): Bind a low port and drop sudo priviledges ASAP.
 - [torrent-stream](https://github.com/mafintosh/torrent-stream)
 - [webtorrent](https://github.com/feross/webtorrent)
 - [wifi-list](https://github.com/mafintosh/wifi-list)
+
+## Objects
+
+- [camelize](https://github.com/substack/camelize): Recursively transform object keys to camel-case.
+- [difflet](https://github.com/substack/difflet): Colorful diffs for javascript objects.
 
 ## Parsing
 
@@ -101,6 +123,13 @@ A list of cool node modules.
 ## PDF
 
 - [pdfkit](https://github.com/devongovett/pdfkit)
+
+## Processes
+
+- [auto-daemon](https://github.com/substack/auto-daemon): Automatically spawn implicit background services.
+- [forever](https://github.com/foreverjs/forever): A simple CLI tool for ensuring that a given script runs continuously.
+- [pm2](https://github.com/Unitech/pm2): Production process manager for Node.js applications with a built-in load balancer.
+- [psy](https://github.com/substack/psy): Process monitor command. Like pm2 and forever, but will less features.
 
 ## Promises
 
@@ -131,4 +160,5 @@ A list of cool node modules.
 
 ## WebRTC
 
+- [get-browser-rtc](https://github.com/substack/get-browser-rtc): Get WebRTC methods unprefixed.
 - [wrtc](https://github.com/js-platform/node-webrtc)
