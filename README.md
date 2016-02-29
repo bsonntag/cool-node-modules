@@ -30,6 +30,7 @@
 - [log-update](https://github.com/sindresorhus/log-update): Log by overwriting the previous output in the terminal.
 - [minimist](https://github.com/substack/minimist): Parse argument options.
 - [progress-bar](https://github.com/tj/node-progress): Flexible ascii progress bar.
+- [single-line-log](https://github.com/freeall/single-line-log): Output one line and move to beginning of line.
 - [vorpal](https://github.com/dthree/vorpal): Framework for interactive CLIs.
 
 ## Compression
