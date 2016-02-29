@@ -14,6 +14,11 @@
 - [tetris](https://github.com/mafintosh/tetris): Play tetris in your terminal, with colors.
 - [vtop](https://github.com/MrRio/vtop): A graphical activity monitor for the command line.
 
+## Audio
+
+- [baudio](https://github.com/substack/baudio): Generate audio streams with functions.
+- [tune](https://github.com/shama/tune): Tune up baudio.
+
 ## Browser
 
 - [browserify](https://github.com/substack/node-browserify): Browser-side `require()` the node.js way.
