@@ -189,6 +189,8 @@
 - [istanbul](https://github.com/gotwarlost/istanbul): Code coverage tool.
 - [mocha](https://github.com/mochajs/mocha): Simple, flexible, fun javascript test framework.
 - [sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks.
+- [supertest](https://github.com/visionmedia/supertest): Super-agent driven library for testing node.js HTTP servers using a fluent API.
+  - [supertest-as-promised](https://github.com/WhoopInc/supertest-as-promised): Supercharges supertest with a then method.
 
 ## Validation
 
