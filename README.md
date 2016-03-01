@@ -12,6 +12,7 @@
 - [opn-cli](https://github.com/sindresorhus/opn-cli): Opens stuff like websites, files, executables. Cross-platform.
 - [peerflix](https://github.com/mafintosh/peerflix): Streaming torrent client.
 - [tetris](https://github.com/mafintosh/tetris): Play tetris in your terminal, with colors.
+- [vmd](https://github.com/yoshuawuyts/vmd): Preview markdown files in a separate window. Markdown is formatted exactly the same as on GitHub.
 - [vtop](https://github.com/MrRio/vtop): A graphical activity monitor for the command line.
 
 ## Audio
