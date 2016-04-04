@@ -59,6 +59,7 @@
 ## File system
 
 - [cpy](https://github.com/sindresorhus/cpy): Copy files.
+- [del](https://github.com/sindresorhus/del): Delete files and folders.
 - [file-type](https://github.com/sindresorhus/file-type): Detect the file type of a Buffer/Uint8Array.
 - [folder-walker](https://github.com/karissa/folder-walker): Get a stream of files walking recursively through a folder.
 - [fuse-bindings](https://github.com/mafintosh/fuse-bindings): FUSE bindings for Node.
