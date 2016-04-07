@@ -20,6 +20,10 @@
 - [baudio](https://github.com/substack/baudio): Generate audio streams with functions.
 - [tune](https://github.com/shama/tune): Tune up baudio.
 
+## Bots
+
+- [botkit](https://github.com/howdyai/botkit): A toolkit for making Slack bot applications.
+
 ## Browser
 
 - [browserify](https://github.com/substack/node-browserify): Browser-side `require()` the node.js way.
