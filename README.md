@@ -122,6 +122,7 @@
 - [png-stream](https://github.com/devongovett/png-stream): A streaming PNG encoder and decoder.
 - [qr-image](https://github.com/alexeyten/qr-image): Yet another QR code generator.
 - [sharp](https://github.com/lovell/sharp): The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+- [to-ico](https://github.com/kevva/to-ico): Convert PNG to ICO in memory.
 
 ## Logging
 
