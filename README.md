@@ -183,6 +183,14 @@
 - [bluebird](https://github.com/petkaantonov/bluebird): Full featured promise library with unmatched performance.
 - [q](https://github.com/kriskowal/q): A tool for creating and composing asynchronous promises.
 
+## React & Flux
+
+- [flux](https://github.com/facebook/flux): Application Architecture for Building User Interfaces.
+- [redux](https://github.com/reactjs/redux): Predictable state container for JavaScript apps.
+- [react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [react-native](https://github.com/facebook/react-native): A framework for building native apps with React.
+- [react-router](https://github.com/reactjs/react-router): A complete routing library for React.
+
 ## Serialization
 
 - [protocol-buffers](https://github.com/mafintosh/protocol-buffers): Protocol Buffers for Node.
