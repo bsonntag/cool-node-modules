@@ -183,6 +183,12 @@
 - [bluebird](https://github.com/petkaantonov/bluebird): Full featured promise library with unmatched performance.
 - [q](https://github.com/kriskowal/q): A tool for creating and composing asynchronous promises.
 
+## Random generators
+
+- [casual](https://github.com/boo1ean/casual): Fake data generator.
+- [chance](https://github.com/chancejs/chancejs): Random generator helper.
+- [faker](https://github.com/Marak/faker.js): Generate massive amounts of fake data.
+
 ## React & Flux
 
 - [flux](https://github.com/facebook/flux): Application Architecture for Building User Interfaces.
