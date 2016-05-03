@@ -44,6 +44,11 @@
 - [compression](https://github.com/expressjs/compression): Compression middleware for express.
 - [tar-stream](https://github.com/mafintosh/tar-stream): Streaming tar parser and generator.
 
+## Databases
+
+- [lowdb](https://github.com/typicode/lowdb): Simple lodash powered database.
+- [warehouse](https://github.com/tommy351/warehouse): JSON database.
+
 ## Electron
 
 - [electron](https://github.com/atom/electron): Build cross platform desktop apps with web technologies.
