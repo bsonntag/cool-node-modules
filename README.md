@@ -94,12 +94,6 @@
 - [pretty-error](https://github.com/AriaMinaei/pretty-error): See node errors with less clutter.
 - [uppercamelcase](https://github.com/SamVerschueren/uppercamelcase): Convert a dash/dot/underscore/space separated string to UpperCamelCase.
 
-## General purpose
-
-- [lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance & extras.
-- [faker](https://github.com/Marak/Faker.js): Generate massive amounts of fake data.
-- [ramda](https://github.com/ramda/ramda): Practical functional Javascript.
-
 ## Git
 
 - [git-http-backend](https://github.com/substack/git-http-backend): Serve a git repository over HTTP.
@@ -225,7 +219,13 @@
 - [mocha](https://github.com/mochajs/mocha): Simple, flexible, fun javascript test framework.
 - [sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks.
 - [supertest](https://github.com/visionmedia/supertest): Super-agent driven library for testing node.js HTTP servers using a fluent API.
-  - [supertest-as-promised](https://github.com/WhoopInc/supertest-as-promised): Supercharges supertest with a then method.
+- [supertest-as-promised](https://github.com/WhoopInc/supertest-as-promised): Supercharges supertest with a then method.
+
+## Utility toolbelts
+
+- [lazy.js](https://github.com/dtao/lazy.js): Functional utility library for JavaScript with a lazy engine.
+- [lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance & extras.
+- [ramda](https://github.com/ramda/ramda): Practical functional Javascript.
 
 ## Validation
 
