@@ -28,6 +28,13 @@
 
 - [browserify](https://github.com/substack/node-browserify): Browser-side `require()` the node.js way.
 
+## Colors
+
+- [color](https://github.com/Qix-/color): JavaScript color conversion and manipulation library.
+- [colorname](https://github.com/perfectworks/colorname): Provides color names.
+- [color-blind](https://github.com/skratchdot/color-blind): Simulate color blindness by converting RGB hex codes.
+- [one-color](https://github.com/One-com/one-color): An OO-based JavaScript color parser/computation toolkit with support for RGB, HSV, HSL, CMYK, and alpha channels.
+
 ## Command-line tools
 
 - [beeper](https://github.com/sindresorhus/beeper): Make your terminal beep.
