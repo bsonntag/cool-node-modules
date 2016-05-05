@@ -89,6 +89,7 @@
 - [camelcase](https://github.com/sindresorhus/camelcase): Convert a dash/dot/underscore/space separated string to camelCase.
 - [chalk](https://github.com/chalk/chalk): Terminal string styling done right.
 - [decamelize](https://github.com/sindresorhus/decamelize): Convert a camelized string into a lowercased one with a custom separator.
+- [htmlout](https://github.com/dtao/htmlout): HTML-styled console output.
 - [ms](https://github.com/rauchg/ms.js): Tiny milisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error): See node errors with less clutter.
 - [uppercamelcase](https://github.com/SamVerschueren/uppercamelcase): Convert a dash/dot/underscore/space separated string to UpperCamelCase.
