@@ -39,6 +39,7 @@
 
 - [beeper](https://github.com/sindresorhus/beeper): Make your terminal beep.
 - [get-stdin](https://github.com/sindresorhus/get-stdin): Get stdin as a string or buffer.
+- [listr](https://github.com/SamVerschueren/listr): Terminal task list.
 - [log-update](https://github.com/sindresorhus/log-update): Log by overwriting the previous output in the terminal.
 - [minimist](https://github.com/substack/minimist): Parse argument options.
 - [ora](https://github.com/sindresorhus/ora): Elegant terminal spinners.
