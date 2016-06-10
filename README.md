@@ -241,4 +241,6 @@
 ## WebRTC
 
 - [get-browser-rtc](https://github.com/substack/get-browser-rtc): Get WebRTC methods unprefixed.
+- [simple-peer](https://github.com/feross/simple-peer): Simple WebRTC video/voice and data channels.
+- [webrtc-adapter](https://github.com/webrtc/adapter): Shim to insulate apps from spec changes and prefix differences.
 - [wrtc](https://github.com/js-platform/node-webrtc): WebRTC stack for Node.
