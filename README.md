@@ -75,6 +75,7 @@
 
 ## File system
 
+- [chokidar](https://github.com/paulmillr/chokidar): A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [cpy](https://github.com/sindresorhus/cpy): Copy files.
 - [del](https://github.com/sindresorhus/del): Delete files and folders.
 - [file-type](https://github.com/sindresorhus/file-type): Detect the file type of a Buffer/Uint8Array.
